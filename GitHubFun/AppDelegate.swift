@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by kevin cooke on 6/24/18.
-//  Copyright © 2018 kevin cooke. All rights reserved.
-//
 
 import UIKit
 
